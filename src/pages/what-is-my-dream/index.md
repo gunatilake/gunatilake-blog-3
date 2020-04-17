@@ -1,6 +1,7 @@
 ---
 title: What is my dream?
 date: "2020-04-15"
+featuredImage: './featured.jpg'
 ---
 
 A question that has been bubbling in my head for the longest time. Now with all the time in the world (literally), I am constantly asking myself this question from the moment I open my eyes in the morning with the sun shining brightly through the yellow curtains in my room. Yes, I have been sleeping in a lot. And I am sure many of you do too - DON’T LIE! 
